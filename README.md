@@ -8,7 +8,7 @@ As a Full-Stack developer, I specialize in crafting interactive web applications
 
 I am an open minded, genuine person and a fast learner. Also a quick problem solver. When iam not on Computer Screen I spend quality time with my family, travel, Photograpy and cooking.
 
-## Here are the projects which I worked on
+#### Here are the projects which I worked on
 
 - [Discount rule for WooCommerce](https://wordpress.org/plugins/woo-discount-rules/) - Create smart coupon and discounts.
   
