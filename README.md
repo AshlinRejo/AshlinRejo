@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-Iam Full-Stack developer with **11+ years** of experiance in products/application develepment on WordPress, Shopify and Joomla.
+I am a Full-Stack developer with over **11 years** of experience in product/application development on WordPress, Shopify, and Joomla.
 
-I've had the privilege of developing **5+ products** that are actively used by more than **100,000 users**.
+I've had the privilege of developing more than **5 products** that are actively used by over **100,000 users**.
 
 As a Full-Stack developer, I specialize in crafting interactive web applications using a variety of technologies, including PHP, WordPress, NodeJS, ReactJS, jQuery, Shopify and Joomla.
 
-I am an open minded, genuine person and a fast learner. Also a quick problem solver. When iam not on Computer Screen I spend quality time with my Family, Travel, Photograpy and Cooking.
+I am an open-minded, genuine person and a fast learner. I am also a quick problem solver. When I am not in front of a computer screen, I spend quality time with my family, travel, engage in photography, and enjoy cooking..
 
 #### Here are the projects which I worked on
 
@@ -22,7 +22,7 @@ I am an open minded, genuine person and a fast learner. Also a quick problem sol
   
 - [E-Notice](https://www.enoticesonline.com/) - Manage tax bills
 
-Currently, I'm dedicated myself as a Freelancer. In the past, I've collaborated the companies such as [CartRabbit](https://cartrabbit.io/), [Flycart](https://www.flycart.org/), [J2Store](https://www.j2store.org/), [OpenKey Technologies](https://www.facebook.com/OpenKeyTechnologies/) & [Adodis Technologies](https://www.linkedin.com/company/adodis-technologies/).
+Currently, I have dedicated myself as a Freelancer. In the past, I have collaborated with companies such as [CartRabbit](https://cartrabbit.io/), [Flycart](https://www.flycart.org/), [J2Store](https://www.j2store.org/), [OpenKey Technologies](https://www.facebook.com/OpenKeyTechnologies/) & [Adodis Technologies](https://www.linkedin.com/company/adodis-technologies/).
 
 <!--
 **AshlinRejo/AshlinRejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
