@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-Iam Full-Stack developer with **11 years** of experiance in products/application develepment on WordPress, Shopify and Joomla.
+Iam Full-Stack developer with **11+ years** of experiance in products/application develepment on WordPress, Shopify and Joomla.
 
 I've had the privilege of developing **5+ products** that are actively used by more than **100,000 users**.
 
 As a Full-Stack developer, I specialize in crafting interactive web applications using a variety of technologies, including PHP, WordPress, NodeJS, ReactJS, jQuery, Shopify and Joomla.
 
-I am an open minded, genuine person and a fast learner. Also a quick problem solver. When iam not on Computer Screen I spend quality time with my family, travel, Photograpy and cooking.
+I am an open minded, genuine person and a fast learner. Also a quick problem solver. When iam not on Computer Screen I spend quality time with my Family, Travel, Photograpy and Cooking.
 
 #### Here are the projects which I worked on
 
